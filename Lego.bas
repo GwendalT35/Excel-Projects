@@ -549,7 +549,7 @@ If Trim(Numero) <> "" Then 'If set exists
             objShell.Run ("https://brickset.com/sets/" & Numero & "")
         End If
         Else ' If Numero doesnt exist
-            MsgBox "Set non présent dans la base de données" '
+            MsgBox "This set doesn't exist in Lego Database" '
         End If
     End With
 End If
