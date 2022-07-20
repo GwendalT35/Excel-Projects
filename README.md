@@ -1,5 +1,6 @@
 # Excel-Projects
 How it works
+
 There are 6 buttons to control the database on the Dashboard, each of them has a different use, these are as such :
 
 - Import/Add : It requires the user to state a Lego set ID that can easily be found on the box, the instructions or the Lego Website
